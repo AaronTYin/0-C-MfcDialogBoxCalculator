@@ -1,4 +1,4 @@
-# 0-C-MfcDialogBoxCalculator
+# 0-C-MfcCalculator
 
 >第一个使用图形界面的程序，能进行简单的四则运算，具体演示请[【O】MFC计算器](https://mengze.top/[O]MFC计算器/)。
 
