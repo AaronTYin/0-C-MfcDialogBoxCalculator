@@ -1,6 +1,6 @@
 # O-C-MfcCalculator
 
->第一个使用图形界面的程序，能进行简单的四则运算，具体演示请[【O】MFC计算器](https://mengze.top/[O]MFC计算器/)。
+>第一个使用图形界面的程序，能进行简单的四则运算，具体演示请[O_MFC计算器](https://mengze.top/O_MFC计算器/)。
 
 >这可能是我唯一的MFC程序了，以后会用QT写其他的。
 
